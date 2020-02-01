@@ -815,3 +815,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-11.36.19:633][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000038 seconds (found 0 objects)
 [2020.02.01-11.36.19:634][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000505 seconds (updated 0 objects)
 [2020.02.01-11.36.19:733][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-11.42.20:857][472]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B118FADA-4272-DA6D-937F-508ED216B025}
+[2020.02.01-11.43.25:653][662]LogHttp: Warning: 00000264A8B02700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEACFE0FD-4542-5770-D8C3-86A3B2234B1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cb074bd548f061021099d2979dec8009%7C23476d18622842ff857176f333bada08%7C8a82e61e-b37a-4779-baea-e5a20ed056f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.01-11.43.25:653][662]LogHttp: Warning: 00000264A8B02700: request failed, libcurl error: 0 (No error)
+[2020.02.01-11.43.25:653][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26481e9ff70 [can pipeline])
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.197.129.254) port 443 (#2))
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 7 (Closing connection 2)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: 00000264A8B02700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.01-11.43.25:654][662]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEACFE0FD-4542-5770-D8C3-86A3B2234B1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cb074bd548f061021099d2979dec8009%7C23476d18622842ff857176f333bada08%7C8a82e61e-b37a-4779-baea-e5a20ed056f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.01-11.45.21:555][  7]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9B322D90-4109-18B2-BF8B-75A9998EE07D}
