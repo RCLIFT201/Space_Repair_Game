@@ -1492,3 +1492,673 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.02.01-12.51.52:999][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.01-12.51.53:004][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
 [2020.02.01-12.51.53:057][695]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.01-12.52.30:220][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.01-12.52.30:424][171]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto21EEFF350444104BA466D5FB2C77E8B02.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto2.umap'
+[2020.02.01-12.52.30:428][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.243
+[2020.02.01-12.52.30:428][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2020.02.01-12.52.30:468][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Prefabs/lambert1] ([1] browsable assets)...
+[2020.02.01-12.52.30:497][171]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Prefabs/lambert1.lambert1]
+[2020.02.01-12.52.30:497][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prefabs/lambert1]
+[2020.02.01-12.52.30:517][171]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/lambert1_Auto2643E88B8469B355FD6B01D82454E2A43.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/Prefabs/lambert1_Auto2.uasset'
+[2020.02.01-12.52.30:518][171]LogFileHelpers: Auto-saving content packages took 0.088
+[2020.02.01-12.52.56:563][250]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-12.53.58:037][221]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-12.59.49:970][768]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-13.00.28:144][ 38]Cmd: SELECT NONE
+[2020.02.01-13.00.29:513][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.00.29:580][101]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-13.00.29:587][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.00.29:587][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-13.00.29:588][101]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 13:00:29)
+[2020.02.01-13.00.29:588][101]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.00.29:590][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002623s)
+[2020.02.01-13.00.29:592][101]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-13.00.29:592][101]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2020.02.01-13.00.29:592][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.004711s)
+[2020.02.01-13.00.29:626][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.01-13.00.29:645][101]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-13.00.29:772][101]LogInit: FAudioDevice initialized.
+[2020.02.01-13.00.29:784][101]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-13.00.29:785][101]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-13.00.29
+[2020.02.01-13.00.29:785][101]LogWorld: Bringing up level for play took: 0.000609
+[2020.02.01-13.00.29:785][101]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.01-13.00.29:791][101]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.087
+[2020.02.01-13.00.29:791][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.00.53:146][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.00.53:148][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.00.53:148][499]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.00.53:148][499]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-13.00.53:159][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-13.00.53:159][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.00.53:201][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.00.53:204][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.01-13.00.53:254][501]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.01-13.00.59:334][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.00.59:434][868]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-13.00.59:438][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.00.59:438][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-13.00.59:438][868]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 13:00:59)
+[2020.02.01-13.00.59:438][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.00.59:442][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2020.02.01-13.00.59:444][868]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-13.00.59:444][868]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2020.02.01-13.00.59:444][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.005737s)
+[2020.02.01-13.00.59:474][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.01-13.00.59:487][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-13.00.59:614][868]LogInit: FAudioDevice initialized.
+[2020.02.01-13.00.59:626][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-13.00.59:628][868]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-13.00.59
+[2020.02.01-13.00.59:628][868]LogWorld: Bringing up level for play took: 0.000608
+[2020.02.01-13.00.59:628][868]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.01-13.00.59:631][868]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel -0.072
+[2020.02.01-13.00.59:632][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.01.53:614][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.01.53:615][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.01.53:615][101]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.01.53:615][101]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-13.01.53:629][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-13.01.53:629][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.01.53:669][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.01.53:675][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.02.01-13.01.53:728][103]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.01-13.01.56:115][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2020.02.01-13.02.01:006][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.02.01:055][524]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-13.02.01:062][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.02.01:062][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-13.02.01:063][524]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 13:02:01)
+[2020.02.01-13.02.01:063][524]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.02.01:066][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002811s)
+[2020.02.01-13.02.01:067][524]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-13.02.01:068][524]LogPlayLevel: PIE: World Init took: (0.002054s)
+[2020.02.01-13.02.01:068][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.005046s)
+[2020.02.01-13.02.01:100][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.01-13.02.01:113][524]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-13.02.01:240][524]LogInit: FAudioDevice initialized.
+[2020.02.01-13.02.01:254][524]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-13.02.01:256][524]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-13.02.01
+[2020.02.01-13.02.01:256][524]LogWorld: Bringing up level for play took: 0.000591
+[2020.02.01-13.02.01:256][524]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.01-13.02.01:260][524]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel -0.444
+[2020.02.01-13.02.01:260][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.03.10:512][669]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=92.774 Y=-1041.157 Z=54.355] for [FirstPersonProjectile_C]
+[2020.02.01-13.03.17:462][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.03.17:464][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.03.17:464][ 86]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.03.17:464][ 86]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-13.03.17:480][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-13.03.17:480][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.03.17:526][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.03.17:530][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.01-13.03.17:586][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.01-13.03.48:144][260]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-13.19.12:181][933]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-13.21.49:376][287]LogActorFactory: Actor Factory created Cockpit
+[2020.02.01-13.21.50:639][347]LogActorFactory: Actor Factory created Cockpit
+[2020.02.01-13.21.52:121][405]Cmd: DELETE
+[2020.02.01-13.21.52:122][405]Cmd: ACTOR DELETE
+[2020.02.01-13.21.52:360][405]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-13.21.52:646][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.01-13.21.52:653][405]LogEditorActor: Deleted 1 Actors (0.436 secs)
+[2020.02.01-13.21.54:591][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.22.35:762][406]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Prefabs/HealthBar.HealthBar
+[2020.02.01-13.22.38:629][406]LogSlate: Took 0.031872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-13.23.04:746][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.02.01-13.23.05:374][509]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto36F3A6F9D4732AC1EB0B01F968402177C.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto3.umap'
+[2020.02.01-13.23.05:389][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.770
+[2020.02.01-13.23.05:390][509]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.770
+[2020.02.01-13.23.05:392][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Prefabs/HealthBar] ([1] browsable assets)...
+[2020.02.01-13.23.05:392][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prefabs/HealthBar]
+[2020.02.01-13.23.05:419][509]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/HealthBar_Auto38BFAA86047D849867A972D9429724B58.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/Prefabs/HealthBar_Auto3.uasset'
+[2020.02.01-13.23.05:420][509]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.02.01-13.29.43:140][133]LogSlate: Took 0.041383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.01-13.33.05:965][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.01-13.33.05:966][969]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.340
+[2020.02.01-13.33.05:969][969]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Prefabs/HealthBar] ([1] browsable assets)...
+[2020.02.01-13.33.05:969][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prefabs/HealthBar]
+[2020.02.01-13.33.06:001][969]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/HealthBar_Auto4419E1CCD43F51EFA354D9CAB1F4E2F0C.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/Prefabs/HealthBar_Auto4.uasset'
+[2020.02.01-13.33.06:002][969]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.02.01-13.40.32:708][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.40.34:125][640]LogActorFactory: Actor Factory created Asteroid5
+[2020.02.01-13.40.35:556][725]LogActorFactory: Actor Factory created Asteroid5
+[2020.02.01-13.40.39:563][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.40.39:630][961]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-13.40.39:649][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.40.39:659][961]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-13.40.39:666][961]LogPlayLevel: [PlayLevel] Compiling HealthBar before play...
+[2020.02.01-13.40.40:253][961]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.02.01-13.40.40:254][961]LogPlayLevel: PlayLevel: Blueprint regeneration took 595 ms (1 blueprints)
+[2020.02.01-13.40.40:280][961]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 13:40:40)
+[2020.02.01-13.40.40:298][961]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.40.40:401][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102512s)
+[2020.02.01-13.40.40:430][961]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-13.40.40:439][961]LogPlayLevel: PIE: World Init took: (0.038101s)
+[2020.02.01-13.40.40:439][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.140969s)
+[2020.02.01-13.40.40:508][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.02.01-13.40.40:561][961]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-13.40.40:715][961]LogInit: FAudioDevice initialized.
+[2020.02.01-13.40.40:730][961]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-13.40.40:745][961]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-13.40.40
+[2020.02.01-13.40.40:745][961]LogWorld: Bringing up level for play took: 0.014621
+[2020.02.01-13.40.40:773][961]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.02.01-13.40.41:009][961]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 1.306
+[2020.02.01-13.40.41:010][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.40.45:839][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.40.45:840][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.40.45:840][238]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-13.40.45:840][238]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-13.40.45:913][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-13.40.45:913][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-13.40.45:965][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-13.40.46:093][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.01-13.40.46:111][239]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.01-13.40.48:297][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asteroid5)
+[2020.02.01-13.40.50:252][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.41.10:115][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asteroid5)
+[2020.02.01-13.41.10:256][191]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-13.41.11:325][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.41.12:306][290]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Prefabs/Asteroid5.Asteroid5
+[2020.02.01-13.41.32:459][259]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-13.43.12:726][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.01-13.43.12:966][233]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto525085D0C4F63337872D7F282B236A51D.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto5.umap'
+[2020.02.01-13.43.12:968][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.615
+[2020.02.01-13.43.12:968][233]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.615
+[2020.02.01-13.43.12:971][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Prefabs/HealthBar] ([1] browsable assets)...
+[2020.02.01-13.43.12:971][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prefabs/HealthBar]
+[2020.02.01-13.43.13:021][233]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/HealthBar_Auto5E81BB90A40CF4D999B5A7BB0E8705C01.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/Prefabs/HealthBar_Auto5.uasset'
+[2020.02.01-13.43.13:022][233]LogFileHelpers: Auto-saving content packages took 0.052
+[2020.02.01-13.43.49:644][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.44.28:857][871]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.01-13.44.38:504][440]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GGJ/Blueprints/Asteroid_BP.Asteroid_BP
+[2020.02.01-13.45.10:151][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-13.53.13:606][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.02.01-13.53.13:606][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.335
+[2020.02.01-13.53.13:614][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Blueprints/Asteroid_BP] ([1] browsable assets)...
+[2020.02.01-13.53.13:638][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GGJ/Blueprints/Asteroid_BP.Asteroid_BP]
+[2020.02.01-13.53.13:638][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Blueprints/Asteroid_BP]
+[2020.02.01-13.53.13:660][571]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP_Auto612F6D8284CB6894AAC2DD9912A095E1A.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Blueprints/Asteroid_BP_Auto6.uasset'
+[2020.02.01-13.53.13:661][571]LogFileHelpers: Auto-saving content packages took 0.054
+[2020.02.01-13.56.16:104][332]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.01-13.56.34:858][567]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-13.56.59:743][616]LogSlate: Took 0.012532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.01-13.57.22:107][ 70]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-13.57.22:700][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.01-14.03.14:228][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.02.01-14.03.14:228][499]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.059
+[2020.02.01-14.03.14:231][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Blueprints/Asteroid_BP] ([1] browsable assets)...
+[2020.02.01-14.03.14:254][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GGJ/Blueprints/Asteroid_BP.Asteroid_BP]
+[2020.02.01-14.03.14:254][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Blueprints/Asteroid_BP]
+[2020.02.01-14.03.14:648][499]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP_Auto73A587EAE40533F625A9376B35B23B992.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Blueprints/Asteroid_BP_Auto7.uasset'
+[2020.02.01-14.03.14:648][499]LogFileHelpers: Auto-saving content packages took 0.418
+[2020.02.01-14.10.30:227][524]BlueprintLog: New page: Compile HealthBar
+[2020.02.01-14.10.30:871][524]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.02.01-14.11.25:151][805]BlueprintLog: New page: Compile HealthBar
+[2020.02.01-14.11.25:771][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.02.01-14.11.26:388][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/HealthBar" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/Prefabs/HealthBar.uasset" SILENT=true
+[2020.02.01-14.11.26:441][832]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/HealthBar43E5DCE24C388CCCC54372AF7CE43777.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/Prefabs/HealthBar.uasset'
+[2020.02.01-14.11.27:531][881]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:531][881]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:547][882]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:547][882]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:570][883]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:570][883]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:596][884]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:596][884]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:614][885]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:614][885]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:634][886]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:634][886]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:655][887]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:656][887]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:686][888]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.27:686][888]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetPercent_0:0027
+[2020.02.01-14.11.27:712][889]LogScript: Warning: Accessed None trying to read property Owner
+	HealthBar_C /Engine/Transient.World_10:HealthBar_C_30
+	Function /Game/Prefabs/HealthBar.HealthBar_C:GetText_0:0027
+[2020.02.01-14.11.40:441][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.11.52:842][792]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.01-14.12.22:254][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.12.58:209][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.12.58:277][759]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-14.12.58:891][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.01-14.13.24:070][873]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2020.02.01-14.13.24:070][873]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.062
+[2020.02.01-14.13.24:072][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Blueprints/Asteroid_BP] ([1] browsable assets)...
+[2020.02.01-14.13.24:092][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GGJ/Blueprints/Asteroid_BP.Asteroid_BP]
+[2020.02.01-14.13.24:092][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Blueprints/Asteroid_BP]
+[2020.02.01-14.13.24:404][873]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP_Auto8CB47D95746929B5B52716AB11007B32B.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Blueprints/Asteroid_BP_Auto8.uasset'
+[2020.02.01-14.13.24:405][873]LogFileHelpers: Auto-saving content packages took 0.334
+[2020.02.01-14.17.28:975][903]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-14.17.29:623][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.02.01-14.24.27:971][801]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-14.24.28:562][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.02.01-14.24.29:341][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GGJ/Blueprints/Asteroid_BP" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset" SILENT=true
+[2020.02.01-14.24.29:376][834]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP1835E261492044B37615FBA596858191.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset'
+[2020.02.01-14.24.37:263][212]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-14.24.37:309][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.24.37:309][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.24.37:341][212]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 14:24:37)
+[2020.02.01-14.24.37:353][212]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.24.37:496][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143076s)
+[2020.02.01-14.24.37:603][212]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-14.24.37:695][212]LogPlayLevel: PIE: World Init took: (0.189533s)
+[2020.02.01-14.24.37:707][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.353457s)
+[2020.02.01-14.24.37:783][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.01-14.24.37:948][212]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.24.38:081][212]LogInit: FAudioDevice initialized.
+[2020.02.01-14.24.38:200][212]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.24.38:212][212]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-14.24.38
+[2020.02.01-14.24.38:212][212]LogWorld: Bringing up level for play took: 0.011557
+[2020.02.01-14.24.38:233][212]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.01-14.24.38:525][212]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.822
+[2020.02.01-14.24.38:526][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.24.48:903][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.24.48:944][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.24.48:944][809]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.24.48:948][809]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-14.24.49:082][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.24.49:082][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.24.49:261][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.24.49:300][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.01-14.24.49:322][810]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.01-14.24.49:911][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Asteroid5)
+[2020.02.01-14.24.52:962][ 18]Cmd: DELETE
+[2020.02.01-14.24.52:962][ 18]Cmd: ACTOR DELETE
+[2020.02.01-14.24.53:169][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-14.24.53:215][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.01-14.24.53:215][ 18]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2020.02.01-14.24.54:775][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.25.01:591][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.25.01:658][483]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-14.25.01:674][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.01:674][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.25.01:674][483]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 14:25:01)
+[2020.02.01-14.25.01:674][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.25.01:677][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002385s)
+[2020.02.01-14.25.01:678][483]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-14.25.02:069][483]LogPlayLevel: PIE: World Init took: (0.392246s)
+[2020.02.01-14.25.02:069][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.394807s)
+[2020.02.01-14.25.02:140][483]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.02.01-14.25.02:157][483]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.25.02:279][483]LogInit: FAudioDevice initialized.
+[2020.02.01-14.25.02:289][483]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.25.02:291][483]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-14.25.02
+[2020.02.01-14.25.02:374][483]LogWorld: Bringing up level for play took: 0.084463
+[2020.02.01-14.25.02:375][483]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.02.01-14.25.02:392][483]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.688
+[2020.02.01-14.25.02:392][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.11:652][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.11:653][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.25.11:653][ 35]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.25.11:654][ 35]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-14.25.11:666][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.25.11:667][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.11:712][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.25.11:717][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.01-14.25.11:772][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.01-14.25.13:131][118]LogEditorViewport: Clicking on Actor (LMB): Asteroid_BP_C (Asteroid_BP)
+[2020.02.01-14.25.16:003][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.25.16:036][288]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-14.25.16:044][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.16:044][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.25.16:044][288]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 14:25:16)
+[2020.02.01-14.25.16:044][288]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.25.16:047][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002338s)
+[2020.02.01-14.25.16:049][288]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-14.25.16:094][288]LogPlayLevel: PIE: World Init took: (0.047392s)
+[2020.02.01-14.25.16:094][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.050026s)
+[2020.02.01-14.25.16:142][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.01-14.25.16:155][288]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.25.16:275][288]LogInit: FAudioDevice initialized.
+[2020.02.01-14.25.16:285][288]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.25.16:287][288]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-14.25.16
+[2020.02.01-14.25.16:287][288]LogWorld: Bringing up level for play took: 0.000774
+[2020.02.01-14.25.16:287][288]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.02.01-14.25.16:292][288]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.588
+[2020.02.01-14.25.16:292][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.27:715][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.27:715][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.25.27:715][972]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.25.27:716][972]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-14.25.27:731][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.25.27:731][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.25.27:785][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.25.27:789][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.01-14.25.27:849][974]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.01-14.26.09:106][670]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-14.29.46:216][271]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-14.29.46:828][271]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.02.01-14.29.47:383][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GGJ/Blueprints/Asteroid_BP" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset" SILENT=true
+[2020.02.01-14.29.47:418][295]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BPFA2D8A30432FD3C10D4C0CBBC9134295.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset'
+[2020.02.01-14.29.50:551][468]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-14.29.50:565][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.29.50:565][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.29.50:565][468]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 14:29:50)
+[2020.02.01-14.29.50:565][468]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.29.50:568][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002503s)
+[2020.02.01-14.29.50:570][468]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-14.29.50:570][468]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2020.02.01-14.29.50:570][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.004595s)
+[2020.02.01-14.29.50:619][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.02.01-14.29.50:633][468]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.29.50:755][468]LogInit: FAudioDevice initialized.
+[2020.02.01-14.29.50:762][468]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.29.50:764][468]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-14.29.50
+[2020.02.01-14.29.50:764][468]LogWorld: Bringing up level for play took: 0.000727
+[2020.02.01-14.29.50:764][468]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.02.01-14.29.50:769][468]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 1.066
+[2020.02.01-14.29.50:769][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.30.02:808][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.30.02:808][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.30.02:808][189]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.30.02:809][189]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-14.30.02:826][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.30.02:827][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.30.02:874][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.30.02:878][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.01-14.30.02:934][191]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.01-14.30.04:708][261]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-14.31.06:486][413]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-14.31.06:760][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.02.01-14.31.07:264][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GGJ/Blueprints/Asteroid_BP" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset" SILENT=true
+[2020.02.01-14.31.07:298][436]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP692E652D4E1523E30B17C88666AA178B.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset'
+[2020.02.01-14.31.16:342][921]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-14.31.16:355][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.31.16:355][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.31.16:355][921]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 14:31:16)
+[2020.02.01-14.31.16:355][921]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.31.16:360][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005416s)
+[2020.02.01-14.31.16:363][921]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-14.31.16:363][921]LogPlayLevel: PIE: World Init took: (0.002234s)
+[2020.02.01-14.31.16:363][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.008022s)
+[2020.02.01-14.31.16:408][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.02.01-14.31.16:434][921]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.31.16:564][921]LogInit: FAudioDevice initialized.
+[2020.02.01-14.31.16:575][921]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.31.16:577][921]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-14.31.16
+[2020.02.01-14.31.16:577][921]LogWorld: Bringing up level for play took: 0.000891
+[2020.02.01-14.31.16:577][921]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.02.01-14.31.16:583][921]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.88
+[2020.02.01-14.31.16:584][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.31.23:368][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.31.23:368][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.31.23:368][327]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.31.23:368][327]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-14.31.23:386][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.31.23:386][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.31.23:439][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.31.23:443][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.01-14.31.23:493][329]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.01-14.33.31:375][558]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-14.34.13:060][797]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-14.34.13:341][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.02.01-14.34.13:920][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GGJ/Blueprints/Asteroid_BP" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset" SILENT=true
+[2020.02.01-14.34.13:955][822]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP8C5CAC44473082972F2CA3B16EFCBE94.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset'
+[2020.02.01-14.34.18:721][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-14.34.18:731][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.34.18:732][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.34.18:732][ 41]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 14:34:18)
+[2020.02.01-14.34.18:732][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.34.18:735][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002920s)
+[2020.02.01-14.34.18:737][ 41]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-14.34.18:737][ 41]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2020.02.01-14.34.18:737][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.005054s)
+[2020.02.01-14.34.18:784][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.01-14.34.18:814][ 41]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.34.18:954][ 41]LogInit: FAudioDevice initialized.
+[2020.02.01-14.34.18:964][ 41]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.34.18:965][ 41]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-14.34.18
+[2020.02.01-14.34.18:966][ 41]LogWorld: Bringing up level for play took: 0.000870
+[2020.02.01-14.34.18:966][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.01-14.34.18:971][ 41]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel -0.733
+[2020.02.01-14.34.18:971][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.34.26:699][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.34.26:700][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.34.26:700][502]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-14.34.26:701][502]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-14.34.26:720][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.34.26:720][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-14.34.26:774][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.34.26:778][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.01-14.34.26:831][504]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.01-14.35.34:695][572]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-14.35.34:751][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.01-14.35.35:376][572]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto933B281934928561568B7C3AA76493136.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto9.umap'
+[2020.02.01-14.35.35:379][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.670
+[2020.02.01-14.35.35:379][572]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.670
+[2020.02.01-15.01.49:421][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.02.01-15.01.49:421][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.354
+[2020.02.01-15.01.49:424][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Blueprints/Asteroid_BP] ([1] browsable assets)...
+[2020.02.01-15.01.49:435][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GGJ/Blueprints/Asteroid_BP.Asteroid_BP]
+[2020.02.01-15.01.49:435][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Blueprints/Asteroid_BP]
+[2020.02.01-15.01.49:465][ 60]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP_Auto0F8290A29447617FE5C40B5B7BF573CBB.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Blueprints/Asteroid_BP_Auto0.uasset'
+[2020.02.01-15.01.49:465][ 60]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.02.01-15.06.52:205][229]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-15.06.52:500][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.01-15.06.53:761][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GGJ/Blueprints/Asteroid_BP" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset" SILENT=true
+[2020.02.01-15.06.53:806][282]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BPE170232F4D178A13B60DFB97AFF153F8.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset'
+[2020.02.01-15.06.57:984][460]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.06.57:993][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.06.57:993][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.06.57:994][460]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 15:06:57)
+[2020.02.01-15.06.57:994][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.06.57:998][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004033s)
+[2020.02.01-15.06.57:999][460]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-15.06.58:000][460]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2020.02.01-15.06.58:000][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.005673s)
+[2020.02.01-15.06.58:053][460]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.02.01-15.06.58:084][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.06.58:230][460]LogInit: FAudioDevice initialized.
+[2020.02.01-15.06.58:239][460]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.06.58:241][460]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-15.06.58
+[2020.02.01-15.06.58:241][460]LogWorld: Bringing up level for play took: 0.000743
+[2020.02.01-15.06.58:241][460]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.02.01-15.06.58:246][460]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.542
+[2020.02.01-15.06.58:246][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.07.07:512][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.07.07:512][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.07.07:512][ 15]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.07.07:513][ 15]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.07.07:530][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.07.07:530][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.07.07:581][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.07.07:586][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.01-15.07.07:639][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.01-15.07.12:542][124]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-15.09.47:439][377]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.09.47:456][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.47:456][377]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-15.09.47:459][377]LogPlayLevel: [PlayLevel] Compiling Asteroid_BP before play...
+[2020.02.01-15.09.47:741][377]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2020.02.01-15.09.47:741][377]LogPlayLevel: PlayLevel: Blueprint regeneration took 284 ms (1 blueprints)
+[2020.02.01-15.09.47:741][377]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 15:09:47)
+[2020.02.01-15.09.47:741][377]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.09.47:743][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002421s)
+[2020.02.01-15.09.47:746][377]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-15.09.47:746][377]LogPlayLevel: PIE: World Init took: (0.002535s)
+[2020.02.01-15.09.47:746][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.005117s)
+[2020.02.01-15.09.47:790][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.01-15.09.47:806][377]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.09.47:928][377]LogInit: FAudioDevice initialized.
+[2020.02.01-15.09.47:942][377]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.09.47:944][377]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-15.09.47
+[2020.02.01-15.09.47:944][377]LogWorld: Bringing up level for play took: 0.001494
+[2020.02.01-15.09.47:945][377]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.02.01-15.09.47:954][377]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.251
+[2020.02.01-15.09.47:954][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.51:532][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.51:533][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.09.51:533][570]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.09.51:534][570]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.09.51:556][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.09.51:556][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.51:604][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.09.51:609][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.02.01-15.09.51:650][571]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.02.01-15.09.52:944][639]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-15.09.53:217][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.02.01-15.09.53:836][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GGJ/Blueprints/Asteroid_BP" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset" SILENT=true
+[2020.02.01-15.09.53:863][667]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP75E9F0A1459F3F3059392C9F6EB18A64.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Blueprints/Asteroid_BP.uasset'
+[2020.02.01-15.09.55:084][732]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.09.55:097][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.55:098][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.09.55:098][732]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 15:09:55)
+[2020.02.01-15.09.55:098][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.09.55:102][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004165s)
+[2020.02.01-15.09.55:103][732]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-15.09.55:104][732]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2020.02.01-15.09.55:104][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.005849s)
+[2020.02.01-15.09.55:148][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.01-15.09.55:161][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.09.55:286][732]LogInit: FAudioDevice initialized.
+[2020.02.01-15.09.55:305][732]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.09.55:307][732]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-15.09.55
+[2020.02.01-15.09.55:307][732]LogWorld: Bringing up level for play took: 0.001212
+[2020.02.01-15.09.55:308][732]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.02.01-15.09.55:314][732]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel -0.39
+[2020.02.01-15.09.55:314][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.56:417][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.56:419][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.09.56:419][788]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.09.56:420][788]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.09.56:438][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.09.56:439][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.56:488][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.09.56:492][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.01-15.09.56:530][789]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.01-15.09.58:608][911]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.09.58:618][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.09.58:618][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.09.58:618][911]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 15:09:58)
+[2020.02.01-15.09.58:628][911]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.09.58:632][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003552s)
+[2020.02.01-15.09.58:634][911]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-15.09.58:635][911]LogPlayLevel: PIE: World Init took: (0.003333s)
+[2020.02.01-15.09.58:635][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.007217s)
+[2020.02.01-15.09.58:678][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.01-15.09.58:690][911]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.09.58:815][911]LogInit: FAudioDevice initialized.
+[2020.02.01-15.09.58:825][911]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.09.58:827][911]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-15.09.58
+[2020.02.01-15.09.58:827][911]LogWorld: Bringing up level for play took: 0.000625
+[2020.02.01-15.09.58:827][911]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.02.01-15.09.58:832][911]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 1.128
+[2020.02.01-15.09.58:832][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.10.09:470][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.10.09:470][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.10.09:470][544]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.10.09:471][544]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.10.09:490][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.10.09:491][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.10.09:545][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.10.09:549][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.02.01-15.10.09:580][546]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.02.01-15.10.11:809][650]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-15.12.15:489][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.01-15.12.16:117][774]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto1843A0A66481EED5F25D3EB9A9585B98B.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto1.umap'
+[2020.02.01-15.12.16:142][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.696
+[2020.02.01-15.12.16:142][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.696
+[2020.02.01-15.16.05:706][776]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.16.05:720][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.16.05:720][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.16.05:720][776]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 15:16:05)
+[2020.02.01-15.16.05:720][776]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.16.05:723][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002642s)
+[2020.02.01-15.16.05:724][776]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-15.16.05:725][776]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2020.02.01-15.16.05:725][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.004551s)
+[2020.02.01-15.16.05:773][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.01-15.16.05:801][776]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.16.05:933][776]LogInit: FAudioDevice initialized.
+[2020.02.01-15.16.05:949][776]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.16.05:950][776]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-15.16.05
+[2020.02.01-15.16.05:951][776]LogWorld: Bringing up level for play took: 0.000716
+[2020.02.01-15.16.05:951][776]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.02.01-15.16.05:955][776]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.252
+[2020.02.01-15.16.05:955][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.16.13:600][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.16.13:600][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.16.13:600][234]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.16.13:600][234]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.16.13:621][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.16.13:622][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.16.13:671][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.16.13:678][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.02.01-15.16.13:728][236]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.02.01-15.16.15:827][331]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-15.17.17:029][380]BlueprintLog: New page: Compile Asteroid_BP
+[2020.02.01-15.17.17:609][380]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.02.01-15.17.20:631][547]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.17.20:641][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.17.20:641][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.17.20:641][547]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 15:17:20)
+[2020.02.01-15.17.20:642][547]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.17.20:646][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004054s)
+[2020.02.01-15.17.20:648][547]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-15.17.20:648][547]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2020.02.01-15.17.20:648][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.006231s)
+[2020.02.01-15.17.20:693][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.01-15.17.20:721][547]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.17.20:847][547]LogInit: FAudioDevice initialized.
+[2020.02.01-15.17.20:856][547]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.17.20:857][547]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-15.17.20
+[2020.02.01-15.17.20:857][547]LogWorld: Bringing up level for play took: 0.000647
+[2020.02.01-15.17.20:857][547]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.02.01-15.17.20:862][547]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 1.158
+[2020.02.01-15.17.20:862][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.17.34:612][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.17.34:613][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.17.34:613][369]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-15.17.34:613][369]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.17.34:628][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.17.34:628][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-15.17.34:675][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.17.34:680][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.01-15.17.34:731][371]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.02.01-15.17.36:461][442]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-15.22.45:260][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.02.01-15.22.45:487][856]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto2B4E420804E4121D9D20A1D8BD855F450.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto2.umap'
+[2020.02.01-15.22.45:489][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.276
+[2020.02.01-15.22.45:489][856]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
+[2020.02.01-15.22.45:493][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Blueprints/Asteroid_BP] ([1] browsable assets)...
+[2020.02.01-15.22.45:506][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GGJ/Blueprints/Asteroid_BP.Asteroid_BP]
+[2020.02.01-15.22.45:506][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Blueprints/Asteroid_BP]
+[2020.02.01-15.22.45:538][856]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Asteroid_BP_Auto22C23731343045B19CABD538697A73128.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Blueprints/Asteroid_BP_Auto2.uasset'
+[2020.02.01-15.22.45:744][856]LogFileHelpers: Auto-saving content packages took 0.253
+[2020.02.01-15.54.42:217][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShipLevel" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/SpaceShipLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.01-15.54.42:508][365]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2020.02.01-15.54.43:850][365]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevelB223D50C42A2086FF77004BFC2594652.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/SpaceShipLevel.umap'
+[2020.02.01-15.54.44:145][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShipLevel_BuiltData" FILE="../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/SpaceShipLevel_BuiltData.uasset" SILENT=true
+[2020.02.01-15.54.44:248][365]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_BuiltDataD24A4C964DF6BF5571434484EE1FD0C3.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/SpaceShipLevel_BuiltData.uasset'
