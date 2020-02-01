@@ -8456,3 +8456,257 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.02.01-19.27.46:413][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.02.01-19.28.09:678][494]Cmd: TRANSACTION UNDO
 [2020.02.01-19.28.09:678][494]LogEditorTransaction: Undo Move Actors
+[2020.02.01-19.30.01:332][321]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.02.01-19.30.01:621][321]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto7547597884A4C4AC3717D3D8366DF1A5E.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto7.umap'
+[2020.02.01-19.30.01:624][321]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.361
+[2020.02.01-19.30.01:624][321]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.361
+[2020.02.01-19.30.01:629][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Console] ([1] browsable assets)...
+[2020.02.01-19.30.01:670][321]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Console.Console]
+[2020.02.01-19.30.01:670][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Console]
+[2020.02.01-19.30.01:695][321]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Console_Auto78993C1FC4DBC8EBC035A21B12AE0F0D4.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Console_Auto7.uasset'
+[2020.02.01-19.30.01:697][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/lambert1] ([1] browsable assets)...
+[2020.02.01-19.30.01:733][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GGJ/Assets/Meshes/lambert1.lambert1]
+[2020.02.01-19.30.01:733][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/lambert1]
+[2020.02.01-19.30.01:830][321]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/lambert1_Auto7961D330340EF3C865B2D8287EB816F68.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/lambert1_Auto7.uasset'
+[2020.02.01-19.30.01:831][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/lambert3] ([1] browsable assets)...
+[2020.02.01-19.30.01:869][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GGJ/Assets/Meshes/lambert3.lambert3]
+[2020.02.01-19.30.01:869][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/lambert3]
+[2020.02.01-19.30.01:882][321]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/lambert3_Auto7B137E8DE43FCBED140663FB7110E5395.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/lambert3_Auto7.uasset'
+[2020.02.01-19.30.01:883][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GGJ/Assets/Meshes/Engines_Skeleton] ([1] browsable assets)...
+[2020.02.01-19.30.01:883][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Engines_Skeleton]
+[2020.02.01-19.30.01:885][321]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Engines_Skeleton_Auto7F722D37B448B4F894CCBF498E49F140F.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Engines_Skeleton_Auto7.uasset'
+[2020.02.01-19.30.01:886][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Engines_PhysicsAsset] ([1] browsable assets)...
+[2020.02.01-19.30.01:921][321]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/GGJ/Assets/Meshes/Engines_PhysicsAsset.Engines_PhysicsAsset]
+[2020.02.01-19.30.01:921][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Engines_PhysicsAsset]
+[2020.02.01-19.30.01:932][321]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Engines_PhysicsAsset_Auto7844AEF3345E9C11A2F7DBFBAB94CCBAE.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Engines_PhysicsAsset_Auto7.uasset'
+[2020.02.01-19.30.01:934][321]LogFileHelpers: Auto-saving content packages took 0.305
+[2020.02.01-19.30.05:669][334]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-19.30.08:065][441]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-19.30.08:571][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Console)
+[2020.02.01-19.30.09:686][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.30.17:400][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ship)
+[2020.02.01-19.30.18:591][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.33.15:027][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Console)
+[2020.02.01-19.33.46:630][217]Cmd: TRANSACTION UNDO
+[2020.02.01-19.33.46:630][217]LogEditorTransaction: Undo Move Actors
+[2020.02.01-19.34.31:478][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.34.36:332][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.34.49:377][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.34.53:576][995]Cmd: TRANSACTION UNDO
+[2020.02.01-19.34.53:576][995]LogEditorTransaction: Undo Create Actors
+[2020.02.01-19.35.11:131][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.36.21:671][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Chair.fbx)
+[2020.02.01-19.36.21:688][876]LogFbx: Loading FBX Scene from ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Chair.fbx
+[2020.02.01-19.36.21:696][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.24:814][876]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.01-19.36.24:842][876]LogFbx: Display: Triangulating static mesh polySurface79
+[2020.02.01-19.36.24:939][876]LogStaticMesh: Building static mesh Chair...
+[2020.02.01-19.36.24:958][876]LogStaticMesh: Built static mesh [0.02s] /Game/GGJ/Assets/Meshes/Chair.Chair
+[2020.02.01-19.36.24:961][876]LogStaticMesh: Warning: Chair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.01-19.36.24:961][876]LogStaticMesh: Warning: Chair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.01-19.36.24:979][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.24:979][876]FBXImport: Warning: Chair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.01-19.36.24:979][876]FBXImport: Warning: Chair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.01-19.36.31:551][876]LogSlate: Window 'Message' being destroyed
+[2020.02.01-19.36.31:556][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Console.fbx)
+[2020.02.01-19.36.31:560][876]LogEditorFactories: Performing atomic reimport of [D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Console.fbx]
+[2020.02.01-19.36.31:575][876]LogFbx: Loading FBX Scene from D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Console.fbx
+[2020.02.01-19.36.31:583][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.31:584][876]LogFbx: Display: Triangulating static mesh pCube4
+[2020.02.01-19.36.31:602][876]LogStaticMesh: Building static mesh Console...
+[2020.02.01-19.36.31:606][876]LogStaticMesh: Built static mesh [0.01s] /Game/GGJ/Assets/Meshes/Console.Console
+[2020.02.01-19.36.31:622][876]LogEditorFactories: -- imported successfully
+[2020.02.01-19.36.31:625][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.31:695][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Door.fbx)
+[2020.02.01-19.36.31:715][876]LogFbx: Loading FBX Scene from ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Door.fbx
+[2020.02.01-19.36.31:723][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.31:772][876]LogFbx: Display: Triangulating static mesh pCylinder1
+[2020.02.01-19.36.31:777][876]LogStaticMesh: Building static mesh Door_pCylinder1...
+[2020.02.01-19.36.31:780][876]LogStaticMesh: Built static mesh [0.00s] /Game/GGJ/Assets/Meshes/Door_pCylinder1.Door_pCylinder1
+[2020.02.01-19.36.31:792][876]LogFbx: Display: Triangulating static mesh polySurface60
+[2020.02.01-19.36.31:795][876]LogStaticMesh: Building static mesh Door_polySurface60...
+[2020.02.01-19.36.31:796][876]LogStaticMesh: Built static mesh [0.00s] /Game/GGJ/Assets/Meshes/Door_polySurface60.Door_polySurface60
+[2020.02.01-19.36.31:810][876]LogFbx: Display: Triangulating static mesh polySurface59
+[2020.02.01-19.36.31:812][876]LogStaticMesh: Building static mesh Door_polySurface59...
+[2020.02.01-19.36.31:813][876]LogStaticMesh: Built static mesh [0.00s] /Game/GGJ/Assets/Meshes/Door_polySurface59.Door_polySurface59
+[2020.02.01-19.36.31:846][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.31:866][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Engines.fbx)
+[2020.02.01-19.36.31:876][876]LogEditorFactories: Performing atomic reimport of [D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Engines.fbx]
+[2020.02.01-19.36.31:900][876]LogFbx: Loading FBX Scene from D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Engines.fbx
+[2020.02.01-19.36.31:910][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.31:911][876]LogFbx: Triangulating skeletal mesh Engine2
+[2020.02.01-19.36.32:018][876]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Prefabs/lambert1.lambert1 or Material /Game/GGJ/Assets/Meshes/lambert1.lambert1
+[2020.02.01-19.36.32:019][876]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.02.01-19.36.32:092][876]LogSkeletalMesh: Section 0: 1654 vertices, 1 active bones
+[2020.02.01-19.36.32:092][876]LogSkeletalMesh: Section 1: 420 vertices, 1 active bones
+[2020.02.01-19.36.32:092][876]LogSkeletalMesh: Section 0: Material=0, 880 triangles
+[2020.02.01-19.36.32:093][876]LogSkeletalMesh: Section 1: Material=1, 720 triangles
+[2020.02.01-19.36.32:095][876]LogSkeletalMesh: Building Skeletal Mesh Engines...
+[2020.02.01-19.36.32:099][876]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/GGJ/Assets/Meshes/Engines.Engines
+[2020.02.01-19.36.32:100][876]LogEditorFactories: -- imported successfully
+[2020.02.01-19.36.32:103][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.32:104][876]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.02.01-19.36.32:105][876]LogSkeletalMesh: Building Skeletal Mesh Engines...
+[2020.02.01-19.36.32:108][876]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/GGJ/Assets/Meshes/Engines.Engines
+[2020.02.01-19.36.32:131][876]LogSkeletalMesh: Building Skeletal Mesh Engines...
+[2020.02.01-19.36.32:133][876]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/GGJ/Assets/Meshes/Engines.Engines
+[2020.02.01-19.36.32:141][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Screen.fbx)
+[2020.02.01-19.36.32:162][876]LogFbx: Loading FBX Scene from ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Screen.fbx
+[2020.02.01-19.36.32:168][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.32:171][876]LogFbx: Display: Triangulating static mesh pCube2
+[2020.02.01-19.36.32:198][876]LogStaticMesh: Building static mesh Screen...
+[2020.02.01-19.36.32:266][876]LogStaticMesh: Built static mesh [0.07s] /Game/GGJ/Assets/Meshes/Screen.Screen
+[2020.02.01-19.36.32:272][876]LogStaticMesh: Warning: Screen has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.01-19.36.32:294][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.32:294][876]FBXImport: Warning: Screen has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.01-19.36.32:318][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Ship.fbx)
+[2020.02.01-19.36.32:319][876]LogEditorFactories: Performing atomic reimport of [D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Ship.fbx]
+[2020.02.01-19.36.32:344][876]LogFbx: Loading FBX Scene from D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Ship.fbx
+[2020.02.01-19.36.32:354][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.32:365][876]LogFbx: Display: Triangulating static mesh polySurface33
+[2020.02.01-19.36.32:666][876]LogStaticMesh: Building static mesh Ship...
+[2020.02.01-19.36.32:887][876]LogStaticMesh: Built static mesh [0.22s] /Game/GGJ/Assets/Meshes/Ship.Ship
+[2020.02.01-19.36.32:918][876]LogStaticMesh: Warning: Ship has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.01-19.36.32:918][876]LogStaticMesh: Warning: Ship has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.01-19.36.32:991][876]LogEditorFactories: -- imported successfully
+[2020.02.01-19.36.32:992][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.32:993][876]FBXImport: Warning: Ship has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.01-19.36.32:993][876]FBXImport: Warning: Ship has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.01-19.36.33:105][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/SideCockPitControls.fbx)
+[2020.02.01-19.36.33:133][876]LogFbx: Loading FBX Scene from ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/SideCockPitControls.fbx
+[2020.02.01-19.36.33:140][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.33:141][876]LogFbx: Display: Triangulating static mesh polySurface121
+[2020.02.01-19.36.33:215][876]LogStaticMesh: Building static mesh SideCockPitControls...
+[2020.02.01-19.36.33:242][876]LogStaticMesh: Built static mesh [0.03s] /Game/GGJ/Assets/Meshes/SideCockPitControls.SideCockPitControls
+[2020.02.01-19.36.33:247][876]LogStaticMesh: Warning: SideCockPitControls has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.01-19.36.33:248][876]LogStaticMesh: Warning: SideCockPitControls has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.01-19.36.33:275][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.33:275][876]FBXImport: Warning: SideCockPitControls has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.01-19.36.33:275][876]FBXImport: Warning: SideCockPitControls has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.01-19.36.33:304][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/SteeringWheel.fbx)
+[2020.02.01-19.36.33:342][876]LogFbx: Loading FBX Scene from ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/SteeringWheel.fbx
+[2020.02.01-19.36.33:354][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.33:355][876]LogFbx: Display: Triangulating static mesh polySurface82
+[2020.02.01-19.36.33:388][876]LogStaticMesh: Building static mesh SteeringWheel...
+[2020.02.01-19.36.33:404][876]LogStaticMesh: Built static mesh [0.02s] /Game/GGJ/Assets/Meshes/SteeringWheel.SteeringWheel
+[2020.02.01-19.36.33:407][876]LogStaticMesh: Warning: SteeringWheel has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.01-19.36.33:432][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.33:432][876]FBXImport: Warning: SteeringWheel has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.01-19.36.33:445][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/ThrustersControls.fbx)
+[2020.02.01-19.36.33:462][876]LogFbx: Loading FBX Scene from ../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/ThrustersControls.fbx
+[2020.02.01-19.36.33:468][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.36.33:470][876]LogFbx: Display: Triangulating static mesh polySurface67
+[2020.02.01-19.36.33:479][876]LogStaticMesh: Building static mesh ThrustersControls...
+[2020.02.01-19.36.33:491][876]LogStaticMesh: Built static mesh [0.01s] /Game/GGJ/Assets/Meshes/ThrustersControls.ThrustersControls
+[2020.02.01-19.36.33:508][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.01-19.36.36:125][993]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-19.36.36:151][993]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-19.36.40:255][219]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.01-19.36.41:639][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.36.43:533][337]LogActorFactory: Actor Factory created Screen
+[2020.02.01-19.36.43:997][364]LogActorFactory: Actor Factory created Screen
+[2020.02.01-19.36.45:222][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.36.53:565][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.36.54:658][872]LogActorFactory: Actor Factory created SideCockPitControls
+[2020.02.01-19.36.54:963][887]LogActorFactory: Actor Factory created SideCockPitControls
+[2020.02.01-19.36.56:355][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.37.00:547][ 85]LogActorFactory: Actor Factory created SteeringWheel
+[2020.02.01-19.37.00:886][103]LogActorFactory: Actor Factory created SteeringWheel
+[2020.02.01-19.37.01:887][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.37.04:984][243]LogActorFactory: Actor Factory created ThrustersControls
+[2020.02.01-19.37.05:301][259]LogActorFactory: Actor Factory created ThrustersControls
+[2020.02.01-19.37.06:388][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.37.16:361][602]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GGJ/Assets/Meshes/SideCockPitControls.SideCockPitControls
+[2020.02.01-19.37.35:935][299]LogActorFactory: Actor Factory created Chair
+[2020.02.01-19.37.36:461][305]LogActorFactory: Actor Factory created Chair
+[2020.02.01-19.37.37:996][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-19.37.42:357][527]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-19.37.42:401][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-19.37.42:401][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-19.37.42:401][527]PIE: New page: PIE session: SpaceShipLevel (1 Feb 2020 19:37:42)
+[2020.02.01-19.37.42:405][527]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-19.37.42:408][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003377s)
+[2020.02.01-19.37.42:411][527]LogAIModule: Creating AISystem for world SpaceShipLevel
+[2020.02.01-19.37.42:412][527]LogPlayLevel: PIE: World Init took: (0.003246s)
+[2020.02.01-19.37.42:412][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShipLevel.SpaceShipLevel to /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel (0.006864s)
+[2020.02.01-19.37.42:475][527]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.02.01-19.37.42:497][527]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-19.37.42:623][527]LogInit: FAudioDevice initialized.
+[2020.02.01-19.37.42:631][527]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.01-19.37.42:632][527]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShipLevel.SpaceShipLevel up for play (max tick rate 60) at 2020.02.01-19.37.42
+[2020.02.01-19.37.42:632][527]LogWorld: Bringing up level for play took: 0.000736
+[2020.02.01-19.37.42:633][527]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.02.01-19.37.42:636][527]PIE: Play in editor start time for /Game/UEDPIE_0_SpaceShipLevel 0.933
+[2020.02.01-19.37.42:637][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-19.38.05:716][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-19.38.05:717][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-19.38.05:717][894]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShipLevel
+[2020.02.01-19.38.05:717][894]LogWorld: UWorld::CleanupWorld for SpaceShipLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-19.38.05:732][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-19.38.05:733][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel' with GeneratedClass '/Game/SpaceShipLevel.SpaceShipLevel_C' with ClassGeneratedBy '/Game/SpaceShipLevel.SpaceShipLevel:PersistentLevel.SpaceShipLevel'
+[2020.02.01-19.38.05:801][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-19.38.05:807][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.01-19.38.05:830][895]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.02.01-19.39.07:804][139]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-19.39.09:257][175]AssetReimport: New page: Outstanding source content changes 19:39:09
+[2020.02.01-19.39.09:288][176]LogEditorFactories: Performing atomic reimport of [D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Console.fbx]
+[2020.02.01-19.39.09:295][176]LogFbx: Loading FBX Scene from D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Console.fbx
+[2020.02.01-19.39.09:304][176]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-19.39.09:322][176]LogStaticMesh: Building static mesh Console...
+[2020.02.01-19.39.09:326][176]LogStaticMesh: Built static mesh [0.01s] /Game/GGJ/Assets/Meshes/Console.Console
+[2020.02.01-19.39.09:341][176]LogEditorFactories: -- imported successfully
+[2020.02.01-19.39.12:427][254]AssetReimport: Reimported asset Console from D:/Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Content/GGJ/Assets/Meshes/Console.fbx.
+[2020.02.01-19.40.22:836][942]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-19.41.39:691][220]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-19.41.39:775][220]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.02.01-19.41.40:076][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SpaceShipLevel_Auto8D34982D743A9AAD4A4087798EABC8199.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/SpaceShipLevel_Auto8.umap'
+[2020.02.01-19.41.40:095][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceShipLevel' took 0.384
+[2020.02.01-19.41.40:095][220]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.384
+[2020.02.01-19.41.40:099][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Console] ([1] browsable assets)...
+[2020.02.01-19.41.40:136][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Console.Console]
+[2020.02.01-19.41.40:136][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Console]
+[2020.02.01-19.41.40:161][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Console_Auto857820BB14D071F71292C248911414888.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Console_Auto8.uasset'
+[2020.02.01-19.41.40:163][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Engines] ([1] browsable assets)...
+[2020.02.01-19.41.40:203][220]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/GGJ/Assets/Meshes/Engines.Engines]
+[2020.02.01-19.41.40:204][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Engines]
+[2020.02.01-19.41.40:221][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Engines_Auto87D3A0F4248654D3487FC168EAE1EC2C0.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Engines_Auto8.uasset'
+[2020.02.01-19.41.40:222][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Ship] ([1] browsable assets)...
+[2020.02.01-19.41.40:253][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Ship.Ship]
+[2020.02.01-19.41.40:253][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Ship]
+[2020.02.01-19.41.40:284][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Ship_Auto84FADA20E4762BAE7E7EF2789A6E38674.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Ship_Auto8.uasset'
+[2020.02.01-19.41.40:286][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Chair] ([1] browsable assets)...
+[2020.02.01-19.41.40:322][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Chair.Chair]
+[2020.02.01-19.41.40:322][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Chair]
+[2020.02.01-19.41.40:341][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Chair_Auto8B8ED086B45A9E35C4B3BE182AD14B1EE.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Chair_Auto8.uasset'
+[2020.02.01-19.41.40:343][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/ThrustersControls] ([1] browsable assets)...
+[2020.02.01-19.41.40:379][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/ThrustersControls.ThrustersControls]
+[2020.02.01-19.41.40:379][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/ThrustersControls]
+[2020.02.01-19.41.40:390][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/ThrustersControls_Auto8DA556DD14972BBB9E8926498F0BF9CEE.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/ThrustersControls_Auto8.uasset'
+[2020.02.01-19.41.40:391][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Door_pCylinder1] ([1] browsable assets)...
+[2020.02.01-19.41.40:427][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Door_pCylinder1.Door_pCylinder1]
+[2020.02.01-19.41.40:427][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Door_pCylinder1]
+[2020.02.01-19.41.40:440][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Door_pCylinder1_Auto8E57766874FBE1B293B5F4DB85DAAB2D9.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Door_pCylinder1_Auto8.uasset'
+[2020.02.01-19.41.40:441][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Door_polySurface60] ([1] browsable assets)...
+[2020.02.01-19.41.40:479][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Door_polySurface60.Door_polySurface60]
+[2020.02.01-19.41.40:479][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Door_polySurface60]
+[2020.02.01-19.41.40:492][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Door_polySurface60_Auto808618712484070D29E1FC9A10D1CAE83.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Door_polySurface60_Auto8.uasset'
+[2020.02.01-19.41.40:493][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Door_polySurface59] ([1] browsable assets)...
+[2020.02.01-19.41.40:529][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Door_polySurface59.Door_polySurface59]
+[2020.02.01-19.41.40:529][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Door_polySurface59]
+[2020.02.01-19.41.40:621][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Door_polySurface59_Auto8D6372279474DC3853F3B7C8A1EAAD6B4.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Door_polySurface59_Auto8.uasset'
+[2020.02.01-19.41.40:622][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/Screen] ([1] browsable assets)...
+[2020.02.01-19.41.40:646][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/Screen.Screen]
+[2020.02.01-19.41.40:646][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/Screen]
+[2020.02.01-19.41.40:674][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Screen_Auto85521EBE24BACF55DC48835B495D684DB.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/Screen_Auto8.uasset'
+[2020.02.01-19.41.40:675][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/SideCockPitControls] ([1] browsable assets)...
+[2020.02.01-19.41.40:689][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/SideCockPitControls.SideCockPitControls]
+[2020.02.01-19.41.40:689][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/SideCockPitControls]
+[2020.02.01-19.41.40:706][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SideCockPitControls_Auto8FDB582F841ABBB3B00CA8FBCFA908F88.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/SideCockPitControls_Auto8.uasset'
+[2020.02.01-19.41.40:707][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GGJ/Assets/Meshes/SteeringWheel] ([1] browsable assets)...
+[2020.02.01-19.41.40:718][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GGJ/Assets/Meshes/SteeringWheel.SteeringWheel]
+[2020.02.01-19.41.40:718][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/GGJ/Assets/Meshes/SteeringWheel]
+[2020.02.01-19.41.40:735][220]LogSavePackage: Moving '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/SteeringWheel_Auto89D71E7D3415314DFE69A05A40F012018.tmp' to '../../../../Uni Work/Projects/GGJGLA20/Space_Repair/Space_Repair/Saved/Autosaves/Game/GGJ/Assets/Meshes/SteeringWheel_Auto8.uasset'
+[2020.02.01-19.41.40:736][220]LogFileHelpers: Auto-saving content packages took 0.638
+[2020.02.01-20.30.29:941][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.01-20.30.33:585][183]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-20.30.34:927][225]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
